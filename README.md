@@ -1,1 +1,4 @@
-# Business-Understanding-DATMIN
+# "Tinjauan Data Penerbangan dan Penumpang dalam memberikan informasi bagi Pengambilan Keputusan dan Peningkatan Operasional Maskapai Penerbangan"
+
+# Studi Kasus
+Seiring berkembangnya dunia industri tidak terkecuali pada bidang sektor penerbangan, maka dibutuhkan inovasi untuk dapat mengoptimalkan operasi maskapai dan meningkatkan pengalaman pelanggan. Dengan menggunakan data tentang rute penerbangan, jadwal, demografi penumpang, dan preferensi, serta analisis tentang penundaan, pembatalan, dan kinerja tepat waktu, studi ini akan mengidentifikasi tren dan merumuskan strategi untuk meningkatkan ketepatan waktu penerbangan serta meminimalkan gangguan operasional. Selain itu, kasus ini akan mengeksplorasi bagaimana data tersebut juga menjadi landasan bagi badan pengatur dan pembuat kebijakan dalam menjaga standar keselamatan, menegakkan peraturan, dan membuat keputusan terkait kebijakan penerbangan. Dengan demikian, studi kasus ini tidak hanya akan memberikan informasi tentang efisiensi operasional, tetapi juga  berkontribusi pada kemajuan sektor secara keseluruhan.
